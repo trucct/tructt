@@ -1,0 +1,18 @@
+.container{
+	width: 700px;
+	height: 500px;
+	background: #4287f5;
+	margin: 0 auto;
+	padding-top: 50px;
+	padding-left: 50px;
+}
+.box{
+	width: 100%;
+	height: 350px;
+	/*background: yellow;*/
+}
+.ip{
+	width: 200px;
+	height: 30px;
+	border: 1.8px solid black;
+}
